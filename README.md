@@ -1,6 +1,6 @@
 # AQUAZONE Item Extractor
 
-[GitHub: fcnt/AQUAZONE_Item_Extractor](https://github.com/fcnt/AQUAZONE_Item_Extractor) · [MIT License](LICENSE)
+[GitHub: fcnt/AQUAZONE_Item_Extractor](https://github.com/fcnt/AQUAZONE_Item_Extractor) · [GNU General Public License v3.0](LICENSE)
 
 日本語版 **AQUAZONE Compact 1.5 / Classics BOX01** の手元の媒体から、魚・水槽・水草・餌・薬・アクセサリー・底砂・背景を抽出・復元する非公式ツールです。
 
@@ -160,4 +160,6 @@ dist-items/both/
 
 このリポジトリは非公式です。元ISO、ゲームの実行ファイル・素材、製品登録情報、セーブデータは含みません。ゲーム・素材・外部ツールの権利は各権利者に帰属し、外部ツールには各配布元のライセンスが適用されます。
 
-本リポジトリの自作コード・文書は [MIT License](LICENSE) で公開します。詳細はLICENSEファイルを参照してください。このライセンスは元ゲームのプログラム・素材や外部ツールには適用されません。
+Copyright (c) 2026 fcnt
+
+本リポジトリの自作コード・文書は [GNU General Public License v3.0](LICENSE) （SPDX: `GPL-3.0-only`）で公開します。詳細はLICENSEファイルを参照してください。このライセンスは元ゲームのプログラム・素材や外部ツールには適用されません。
